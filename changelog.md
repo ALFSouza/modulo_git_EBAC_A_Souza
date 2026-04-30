@@ -12,3 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added changelog.md
 - Removed "arq.txt" and "arquivo.txt"
 - Adicionado e removido "arq.txt" para relembrar
+
+## [0.0.2] - 2026-04-30
+
+### Added
+
+- Added "nome.txt"
